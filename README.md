@@ -1,8 +1,10 @@
 ## Greetings 👋
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=datsabahandude&theme=chartreuse-dark&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datsabahandude&theme=chartreuse-dark&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=datsabahandude&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=chartreuse-dark)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datsabahandude&theme=chartreuse-dark&layout=compact">
+</p>
 
 <!--
 **datsabahandude/datsabahandude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
