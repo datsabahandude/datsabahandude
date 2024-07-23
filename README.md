@@ -1,6 +1,7 @@
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=datsabahandude&theme=chartreuse-dark&show_icons=true"> -->
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=datsabahandude&label=Profile%20views&color=0e75b6&style=flat" alt="datsabahandude" /> </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=datsabahandude&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=M%20j%5B%2C%20Y%5D&theme=chartreuse-dark">
 </p>
